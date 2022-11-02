@@ -1,0 +1,21 @@
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  margin-right: 12px;
+  border: 1.5px solid #cb8734;
+  border-radius: 100%;
+  background: transparent;
+  &:hover {
+    background: #cb873430;
+    cursor: pointer;
+  }
+}
+
+.iconArrow {
+  width: 5px;
+  height: 10px;
+}

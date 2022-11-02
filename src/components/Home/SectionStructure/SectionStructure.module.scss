@@ -1,0 +1,133 @@
+.sectionStructure {
+  /* height: 1831px; */
+  height: auto;
+  background: #fffbf7;
+  padding-top: 145px;
+  padding-bottom: 145px;
+}
+
+.titleStructure {
+  width: 372px;
+  margin-bottom: 11px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.listStructure {
+  width: 1170px;
+  padding-top: 47px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+
+.itemStructure {
+  width: 570px;
+  height: 324px;
+  position: relative;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 42px 39px 50px 46px;
+}
+
+.titleCreatingLayout {
+  width: 254px;
+  height: auto;
+  margin-bottom: 10px;
+  margin-right: 19px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.titleMeasurement {
+  width: 372px;
+  height: auto;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.titleConstruction {
+  width: 254px;
+  height: auto;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.titleConstructionWorks {
+  width: 254px;
+  height: auto;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.wrapperConstructionWorks,
+.wrapperConstruction,
+.wrapperMeasurement,
+.wrapperCreatingLayout {
+  display: flex;
+}
+
+.imageCreatingLayout {
+  width: 225px;
+  height: 161px;
+  position: absolute;
+  top: -57px;
+  right: 26px;
+}
+
+.imageMeasurement {
+  width: 204px;
+  height: 205px;
+  position: absolute;
+  top: -78px;
+  right: 14px;
+}
+
+.imageConstruction {
+  width: 268px;
+  height: 130px;
+  position: absolute;
+  top: -26px;
+  right: 13px;
+}
+
+.imageConstructionWorks {
+  width: 206px;
+  height: 169px;
+  position: absolute;
+  top: -45px;
+  right: 39px;
+}
+
+.textConstructionWorks,
+.textConstruction,
+.textMeasurement,
+.textCreatingLayout {
+  width: 485px;
+  height: 150px;
+}
+
+.numberStructure {
+  position: absolute;
+  bottom: 0;
+  right: 26px;
+}
+
+.wrapperSlider {
+display: flex;
+align-items: center;
+}
+
+.imageSliderConstruction {
+  width: 1170px;
+  height: 520px;
+  margin-bottom: 40px;
+}

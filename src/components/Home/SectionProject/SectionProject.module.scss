@@ -1,0 +1,139 @@
+.section {
+  height: 1376px;
+  padding-top: 343px;
+  padding-bottom: 145px;
+}
+
+.title {
+  margin-bottom: 26px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 58px;
+}
+
+.sectionStyle {
+  position: relative;
+
+  @media screen and (max-width: 1199px) {
+    width: 1046px;
+    height: 601px;
+  }
+
+  @media screen and (min-width: 1200px) {
+    width: 1246px;
+    height: 801px;
+  }
+}
+
+.imageStyle {
+  position: absolute;
+  right: 0;
+  background-repeat: no-repeat;
+  background-position: right top;
+
+  @media screen and (min-width: 1199px) {
+    background-size: 1046px 601px;
+  }
+
+  @media screen and (min-width: 1200px) {
+    background-size: 1246px 801px;
+  }
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 770px;
+}
+
+.item {
+  width: 370px;
+  height: 460px;
+  margin-bottom: 29px;
+  z-index: 1;
+  background: #ffffff;
+  box-shadow: 0px 0px 30px rgba(43, 42, 40, 0.08);
+  border-radius: 0px 40px 0px 0px;
+}
+
+.itemProjectGarden {
+  display: flex;
+  width: 770px;
+  height: 320px;
+  z-index: 1;
+  background: #ffffff;
+  box-shadow: 0px 0px 30px rgba(43, 42, 40, 0.08);
+  border-radius: 0px 40px 0px 0px;
+}
+
+.containerImageCommercial,
+.containerImageResidential {
+  width: 370px;
+  height: 230px;
+  padding: 5px 5px 0 5px;
+}
+
+.containerImageGarden {
+  width: 425px;
+  height: 320px;
+  padding: 5px 5px 5px 0;
+}
+
+.imageCommercial,
+.imageResidential {
+  width: 360px;
+  height: 230px;
+  border-radius: 0px 36px;
+}
+
+.imageGarden {
+  width: 420px;
+  height: 310px;
+  border-radius: 0px 36px;
+}
+
+.containerTextCommercial,
+.containerTextResidential {
+  width: 370px;
+  padding: 36px 19px 50px 50px;
+}
+
+.containerTextGarden {
+  width: 345px;
+  height: 320px;
+  padding: 49px 50px 63px 50px;
+}
+
+.titleGarden,
+.titleCommercial,
+.titleResidential {
+  margin-bottom: 9px;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 26px;
+}
+
+.textGarden,
+.textCommercial,
+.textResidential {
+  margin-bottom: 14px;
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.containerButtonGarden,
+.containerButtonCommercial,
+.containerButtonResidential {
+  display: flex;
+  align-items: center;
+}
+
+.textButtonGarden,
+.textButtonCommercial,
+.textButtonResidential {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: 0;
+  color: #cb8734;
+}

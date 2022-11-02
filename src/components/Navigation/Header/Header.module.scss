@@ -1,0 +1,52 @@
+.header {
+  height: 220px;
+  padding-top: 22px;
+  padding-bottom: 37px;
+  border: 1px solid peru;
+  background: #fffbf7;
+}
+
+.containerHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 36px;
+}
+
+.logo {
+  width: 251px;
+  height: 33px;
+}
+
+.logoText {
+  width: 230px;
+  height: 36px;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+}
+
+.textSocials {
+  margin-bottom: 4px;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+}
+
+.textPhone {
+  margin-bottom: 7px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 16px;
+  text-align: right;
+}
+
+.textSchedule {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+  text-align: right;
+}

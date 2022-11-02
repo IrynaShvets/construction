@@ -1,0 +1,59 @@
+.sectionHero {
+  display: flex;
+  height: auto;
+  background: #fffbf7;
+  padding-top: 70px;
+  padding-bottom: 357px;
+}
+
+.containerHero {
+  position: relative;
+}
+
+.hero {
+  position: absolute;
+  top: -95px;
+  right: 0;
+}
+
+.heroTree {
+  position: absolute;
+  top: -70px;
+  right: 0;
+}
+
+.heroScoop {
+  position: absolute;
+  top: 250px;
+  right: 478px;
+}
+
+.titleHero {
+  width: 551px;
+  height: auto;
+  margin-bottom: 8px;
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 50px;
+}
+
+.textHero {
+  width: 502px;
+  height: auto;
+  margin-bottom: 26px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.wrapperSlider {
+  display: flex;
+  align-items: center;
+}
+
+.textSlider {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+  color: #cb8734;
+}

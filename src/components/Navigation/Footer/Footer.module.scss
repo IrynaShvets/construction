@@ -1,0 +1,121 @@
+.footer {
+  height: auto;
+  width: 100%;
+  padding-top: 89px;
+  border: 1px solid peru;
+  background: #fffbf7;
+}
+
+.footerWrapper {
+  display: flex;
+  margin-top: 39px;
+  margin-bottom: 60px;
+}
+
+.footerLinks {
+  display: flex;
+  width: 644px;
+}
+
+.footerResidentialLinks {
+  display: flex;
+  flex-direction: column;
+  width: 222px;
+  height: auto;
+}
+
+.footerCommercialLinks {
+  display: flex;
+  flex-direction: column;
+  width: 232px;
+  height: auto;
+  padding-left: 43px;
+}
+
+.footerGardenLinks {
+  display: flex;
+  flex-direction: column;
+  width: 190px;
+  height: auto;
+}
+
+.link {
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #2b2a28;
+  text-decoration: none;
+}
+
+.containerFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 526px;
+  padding-left: 71px;
+}
+
+.logoContainer {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.logoFooter {
+  width: 250px;
+  height: 31px;
+  margin-right: 20px;
+}
+
+.logoTextFooter {
+  width: 180px;
+  height: auto;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: 0;
+}
+
+.textSocials {
+  margin-bottom: 4px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+}
+
+.phoneContainer {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.phoneWrapper {
+  margin-right: 80px;
+}
+
+.textPhone {
+  margin-bottom: 7px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 16px;
+  text-align: right;
+}
+
+.textSchedule {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.08em;
+  text-align: right;
+}
+
+.containerPrivacyPolicy {
+  padding: 30px 0;
+  border-top: 1px solid #e7d8c7;
+}
+
+.privacyPolicy {
+  font-size: 13px;
+  line-height: 22px;
+  text-align: center;
+  opacity: 0.7;
+}

@@ -1,0 +1,38 @@
+.listSocials {
+    display: flex;
+}
+
+.itemTelegram {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4px;
+    background: #419fd9;
+    border-radius: 12.974px;
+}
+
+.itemWhatsapp {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4px;
+    background: #0dc143;
+    border-radius: 12.974px;
+}
+
+.itemViber {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #675da9;
+    border-radius: 12.974px;
+}
