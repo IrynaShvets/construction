@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[587],{1049:function(n,s,e){e.r(s);var c=e(2791),t=e(470),r=e(9118),u=e(184);s.default=function(){return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("h2",{children:"KitchensPage"}),(0,u.jsx)(c.Suspense,{fallback:(0,u.jsx)(r.Z,{}),children:(0,u.jsx)(t.j3,{})})]})}}}]);
+//# sourceMappingURL=kitchens-page.c0c2318a.chunk.js.map

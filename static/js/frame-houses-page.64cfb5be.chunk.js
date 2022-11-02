@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[342],{7924:function(s,e,n){n.r(e);var c=n(2791),r=n(470),u=n(9118),t=n(184);e.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h2",{children:"FrameHousesPage"}),(0,t.jsx)(c.Suspense,{fallback:(0,t.jsx)(u.Z,{}),children:(0,t.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=frame-houses-page.64cfb5be.chunk.js.map

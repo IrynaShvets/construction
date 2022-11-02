@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[856],{5473:function(n,e,t){t.r(e);var c=t(184);e.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("h2",{children:"ResidentialPage"})})}}}]);
+//# sourceMappingURL=residential-page.e13d2015.chunk.js.map

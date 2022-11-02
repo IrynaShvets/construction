@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[605],{8897:function(e,n,s){s.r(n);var c=s(2791),r=s(470),u=s(9118),t=s(184);n.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h2",{children:"BarbecueAreasPage"}),(0,t.jsx)(c.Suspense,{fallback:(0,t.jsx)(u.Z,{}),children:(0,t.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=barbecue-areas-page.2b58824d.chunk.js.map

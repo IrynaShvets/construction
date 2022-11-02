@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/garden-page.311af9bb.chunk.js","mappings":"oIAQA,UARA,WACE,OACE,+BACE,wCAGN,C","sources":["pages/garden/GardenPage.js"],"sourcesContent":["function GardenPage() {\r\n  return (\r\n    <>\r\n      <h2>GardenPage</h2>\r\n    </>\r\n  );\r\n}\r\n\r\nexport default GardenPage;\r\n"],"names":[],"sourceRoot":""}

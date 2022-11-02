@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[728],{2736:function(n,e,s){s.r(e);var c=s(2791),r=s(470),t=s(9118),u=s(184);e.default=function(){return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("h2",{children:"GazeboPage"}),(0,u.jsx)(c.Suspense,{fallback:(0,u.jsx)(t.Z,{}),children:(0,u.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=gazebo-page.1a9c6497.chunk.js.map

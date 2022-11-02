@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[725],{3814:function(e,n,s){s.r(n);var c=s(2791),r=s(470),t=s(9118),u=s(184);n.default=function(){return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("h2",{children:"ProfiledTimberPage"}),(0,u.jsx)(c.Suspense,{fallback:(0,u.jsx)(t.Z,{}),children:(0,u.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=profiled-timber-page.aa0b9175.chunk.js.map

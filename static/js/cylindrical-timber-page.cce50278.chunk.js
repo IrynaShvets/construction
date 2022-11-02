@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[188],{8780:function(n,e,s){s.r(e);var c=s(2791),r=s(470),i=s(9118),t=s(184);e.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h2",{children:"CylindricalTimberPage"}),(0,t.jsx)(c.Suspense,{fallback:(0,t.jsx)(i.Z,{}),children:(0,t.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=cylindrical-timber-page.cce50278.chunk.js.map

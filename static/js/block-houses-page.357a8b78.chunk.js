@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[394],{4831:function(s,n,e){e.r(n);var c=e(2791),u=e(470),r=e(9118),t=e(184);n.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h2",{children:"BlockHousesPage"}),(0,t.jsx)(c.Suspense,{fallback:(0,t.jsx)(r.Z,{}),children:(0,t.jsx)(u.j3,{})})]})}}}]);
+//# sourceMappingURL=block-houses-page.357a8b78.chunk.js.map

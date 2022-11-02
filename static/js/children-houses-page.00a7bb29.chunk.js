@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[10],{7058:function(n,s,e){e.r(s);var c=e(2791),r=e(470),u=e(9118),t=e(184);s.default=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h2",{children:"ChildrenHousesPage"}),(0,t.jsx)(c.Suspense,{fallback:(0,t.jsx)(u.Z,{}),children:(0,t.jsx)(r.j3,{})})]})}}}]);
+//# sourceMappingURL=children-houses-page.00a7bb29.chunk.js.map

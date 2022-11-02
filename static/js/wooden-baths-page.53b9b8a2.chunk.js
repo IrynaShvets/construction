@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkconstruction=self.webpackChunkconstruction||[]).push([[98],{5404:function(n,s,e){e.r(s);var c=e(2791),t=e(470),r=e(9118),u=e(184);s.default=function(){return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("h2",{children:"WoodenBathsPage"}),(0,u.jsx)(c.Suspense,{fallback:(0,u.jsx)(r.Z,{}),children:(0,u.jsx)(t.j3,{})})]})}}}]);
+//# sourceMappingURL=wooden-baths-page.53b9b8a2.chunk.js.map

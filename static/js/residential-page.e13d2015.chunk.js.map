@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/residential-page.e13d2015.chunk.js","mappings":"qIAQA,UARA,WACE,OACE,+BACE,6CAGN,C","sources":["pages/residential/ResidentialPage.js"],"sourcesContent":["function ResidentialPage() {\r\n  return (\r\n    <>\r\n      <h2>ResidentialPage</h2>\r\n    </>\r\n  );\r\n}\r\n\r\nexport default ResidentialPage;\r\n"],"names":[],"sourceRoot":""}

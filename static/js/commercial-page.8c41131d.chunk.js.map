@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/commercial-page.8c41131d.chunk.js","mappings":"qIAQA,UARA,WACE,OACE,+BACE,4CAGN,C","sources":["pages/commercial/CommercialPage.js"],"sourcesContent":["function CommercialPage() {\r\n  return (\r\n    <>\r\n      <h2>CommercialPage</h2>\r\n    </>\r\n  );\r\n}\r\n\r\nexport default CommercialPage;\r\n"],"names":[],"sourceRoot":""}
